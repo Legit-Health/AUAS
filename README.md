@@ -43,7 +43,23 @@ Our knowledge unification method can be summarised in three stages:
 
 Once we had our labels ready, we trained all **YOLOv5** architectures available on our dataset using **6-fold cross-validation**.
 
-## References
+| Model   | Precision (std) | Recall (std) |
+|---------|-----------------|--------------|
+| yolov5s | 0.66 (0.07)     | 0.57 (0.04)  |
+| yolov5m | 0.66 (0.05)     | 0.56 (0.06)  |
+| yolov5l | 0.65 (0.04)     | 0.57 (0.06)  |
+| yolov5x | 0.65 (0.06)     | 0.56 (0.06)  |
+
+
+
+| Model   | Conf_thresh @ IoU | AE_mild | AE_moderate | AE_severe | AE_sum |
+|---------|-------------------|---------|-------------|-----------|--------|
+| yolov5s | 0.30 @ 0.50       | 3.28    | 8.57        | 8.38      | 20.23  |
+| yolov5m | 0.20 @ 0.50       | 3.36    | 8.07        | 11.99     | 23.42  |
+| yolov5l | 0.25 @ 0.50       | 3.2     | 8.48        | 13.36     | 25.04  |
+| yolov5x | 0.35 @ 0.50       | 3.31    | 10.51       | 17.75     | 31.57  |
+
+## Reference
 
 *AUAS: Automatic Urticaria Activity Score using Deep Learning for High Precision Hive Counting* is under review.
 
