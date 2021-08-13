@@ -14,9 +14,11 @@
 
 ## [What is AUAS?](https://legit.health/)
 
-Objective, reliable, and precise outcome measures are a prerequisite to evidence-based health care.
+Objective, reliable, and precise outcome measures are a prerequisite to evidence-based health care. Regarding the treatment of urticaria, self-reported questionnaires, called PROs (Patient-reported outcome), are the main, if not the only prospective measurement tool and the most accepted way of assessing chronic urticaria and assigning treatment to patients. 
 
-AUAS is a fast, accurate and **fully automatic scoring system** for the severity assessment of urticaria.
+The most commonly used scoring systems are the Urticaria Activity Score (**UAS**) and the version of this scale used for 7 consecutive days (**UAS7**). In summary, UAS and UAS7 rely on **hive counting** and itch severity assessment in order to get the final severity score. In cases with a high number of hives, lesion counting ends up being a very unrewarding task for patients and may result in poor adherence.
+
+Our solution, AUAS, is a fast, accurate and **fully automatic scoring system** for the severity assessment of urticaria: it automatically detects and counts hives and, combined with the patient-reported itch severity, generates fully reported UAS/UAS7 questionnaires.
 
 ## Datasets
 
