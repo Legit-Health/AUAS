@@ -18,7 +18,7 @@ Objective, reliable, and precise outcome measures are a prerequisite to evidence
 
 The most commonly used scoring systems are the Urticaria Activity Score (**UAS**) and the version of this scale used for 7 consecutive days (**UAS7**). In summary, UAS and UAS7 rely on **hive counting** and itch severity assessment in order to get the final severity score. In cases with a high number of hives, lesion counting ends up being a very unrewarding task for patients and may result in poor adherence.
 
-Our solution, AUAS, is a fast, accurate and **fully automatic scoring system** for the severity assessment of urticaria: it automatically detects and counts hives and, combined with the patient-reported itch severity, generates fully reported UAS/UAS7 questionnaires.
+Our solution, [AUAS, is a fast, accurate and **fully automatic scoring system** for the severity assessment of urticaria](https://legit.health/auas7-the-best-weapon-in-the-dermatologyst-arsenal/): it automatically detects and counts hives and, combined with the patient-reported itch severity, generates fully reported UAS/UAS7 questionnaires.
 
 ## Datasets
 
@@ -41,7 +41,7 @@ Our knowledge unification method can be summarised in three stages:
 
 ## Results
 
-Once we had our labels ready, we trained all **YOLOv5** architectures available on our dataset using **6-fold cross-validation**.
+Once we had our labels ready, we trained all **YOLOv5** architectures available on our dataset using a **6-fold cross-validation** strategy.
 
 | Model   | Precision (std) | Recall (std) |
 |---------|-----------------|--------------|
