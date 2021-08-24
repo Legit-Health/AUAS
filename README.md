@@ -66,5 +66,6 @@ Once we had our labels ready, we trained all **YOLOv5** architectures available 
 ## Contact
 
 [Alfonso Medela](https://www.linkedin.com/in/alfonsomedela/) \
-[Taig Mac Carthy](https://www.linkedin.com/in/taigmaccarthy/) \
-[Andy Aguilar](https://www.linkedin.com/in/andy-aguilar/) 
+[Andy Aguilar](https://www.linkedin.com/in/andy-aguilar/) \
+[Taig Mac Carthy](https://www.linkedin.com/in/taigmaccarthy/)
+
