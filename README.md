@@ -59,9 +59,10 @@ Once we had our labels ready, we trained all **YOLOv5** architectures available 
 | yolov5l | 0.25 @ 0.50       | 3.2     | 8.48        | 13.36     | 25.04  |
 | yolov5x | 0.35 @ 0.50       | 3.31    | 10.51       | 17.75     | 31.57  |
 
-## Reference
+## References
 
-*AUAS: Automatic Urticaria Activity Score using Deep Learning for High Precision Hive Counting* is under review.
+- *AUAS: Automatic Urticaria Activity Score using Deep Learning for High Precision Hive Counting* is under review.
+- [YOLOv5 official GitHub repository](https://github.com/ultralytics/yolov5)
 
 ## Contact
 
